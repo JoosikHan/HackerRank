@@ -4,3 +4,11 @@
     </a>
     <br> HackerRank 알고리즘 사이트 공부하기 (using python3)
 </p>
+
+# Algorithms
+
+|        Subdomain        |                                                              Challenge                                                              | Difficulty |                                                                                  Solution                                                                                 |
+|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Implementation         | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)                                                         |   <font color="green">Easy</font>   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Algorithms/Sorting/Quicksort%201%20-%20Partition/Solution.java)                          |
+|         Implementation         | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)                                                             |   15   | [Solution.java](https://github.com/RodneyShag/HackerRank_solutions/blob/master/Algorithms/Sorting/Marc%27s%20Cakewalk/Solution.java)                                    |
+|         Implementation         | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)            |   15   | 
